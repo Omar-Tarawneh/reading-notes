@@ -8,3 +8,4 @@ I'will be updating my **Toc** after each class.
 | class1 |  README |[link](https://omar-tarawneh.github.io/reading-notes/) |
 | class2 |    read02   |[link](https://omar-tarawneh.github.io/reading-notes/read02)|
 | class3 | read03 |[link](https://omar-tarawneh.github.io/reading-notes/read03) |
+| class4 | read04 |[link](https://omar-tarawneh.github.io/reading-notes/read04) |
