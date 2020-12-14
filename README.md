@@ -7,6 +7,8 @@ _The opposite of **Growth Mindset** is **Fixed Mindset**_
  
  _Fixed Mindset_ is thinking that talent and Intelegince will give you the success without making any effort.
  you can learn more about in this link [Growth Mindset](https://canvas.instructure.com/courses/2471930/discussion_topics/10337144?module_item_id=40208712)
+ ## Reminders
+ * The more effort you put the better the outcome will be
  
  ## what I learn for Today 13 December
  1.Markdown language
