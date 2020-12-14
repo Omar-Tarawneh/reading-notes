@@ -20,6 +20,13 @@ There is a list of command that you can use to deal with files and directory in 
 
 ## About file
 
-so basically in linux system everything you deal with is file you can interact with using commands
+so basically in linux system everything you deal with is file you can interact with using commands.
 
 :heart:
+
+### Here is some example of command we use in Terminal
+* pwd print working directory
+* cd change directory
+* ls list the item in the current working directory
+
+ 
