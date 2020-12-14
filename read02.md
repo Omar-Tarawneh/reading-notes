@@ -29,6 +29,6 @@ so basically in linux system everything you deal with is file you can interact w
 * cd change directory
 * ls list the item in the current working directory
 
-# Here an picture how the Terminal look like
-![Terminal](https://www.barcoderesource.com/images/linuxconsole_terminal.png)
+# Here an image of cheat sheet
+![cheatsheet](https://linoxide.com/images/linux-cheat-sheet-612x792.png)
  
