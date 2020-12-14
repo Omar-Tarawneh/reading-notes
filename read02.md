@@ -7,7 +7,7 @@ The text editor is very helpfull and have many features like:
 * Highlighting
 * to reduce eye strain and fatigue
 * Provide many tools to increase your productivity 
-
+Here is a link for pdf file to read more about it [Text Editors](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
 
 # The Command Line
