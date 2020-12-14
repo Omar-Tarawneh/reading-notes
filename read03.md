@@ -18,17 +18,7 @@ Here is some command we use today:
 ## HTML
 we learn about _**semantic**_ tags and how we structure our code accordingly to the flow of these **tags** 
 ![wiframe](https://www.w3schools.com/html/img_sem_elements.gif)
-semantic tags have function to do in the web site it's just help you to navigate between different side of your **web page**.
-Here an code example:
-```  
-<section>  
-<h1>WWF</h1>  
-<p>The World Wide Fund for Nature (WWF) is an international organization working on issues regarding the conservation, research and restoration of the environment, formerly named the World Wildlife Fund. WWF was founded in 1961.</p>  
-</section>  
-  
-<section>  
-<h1>WWF's Panda symbol</h1>  
-<p>The Panda has become the symbol of WWF. The well-known panda logo of WWF originated from a panda named Chi Chi that was transferred from the Beijing Zoo to the London Zoo in the same year of the establishment of WWF.</p>  
-</section>
 
-```
+
+semantic tags have function to do in the web site it's just help you to navigate between different side of your **web page**.
+
