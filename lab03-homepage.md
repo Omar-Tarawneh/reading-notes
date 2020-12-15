@@ -10,3 +10,4 @@ I'will be updating my **Toc** after each class.
 | class3 | read03 |[link](https://omar-tarawneh.github.io/reading-notes/read03) |
 | class4 | read04 |[link](https://omar-tarawneh.github.io/reading-notes/read04) |
 | class5 | read05 |[link](https://omar-tarawneh.github.io/reading-notes/read05) |
+| class6 | read06a |[link](https://omar-tarawneh.github.io/reading-notes/read06a) |
