@@ -19,4 +19,6 @@ We learn about using various types of color which they are:
 * **Hex Codes**
 * **By Color Name**
 * **HSB** 
+
+
 ![CSS Color](https://cdn.educba.com/academy/wp-content/uploads/2020/03/CSS-Color-Codes.jpg)
