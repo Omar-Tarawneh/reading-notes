@@ -11,5 +11,6 @@ After skimming the [JavaScript&Jquery](https://slack-files.com/files-pri-safe/TN
 	* prompt()
 	* parseInt()
 	* confirm()
+* **Operators** we can use them for math calculation and for concatination for strings.
 
 ![Code Example](https://i.stack.imgur.com/D3UpA.png)
