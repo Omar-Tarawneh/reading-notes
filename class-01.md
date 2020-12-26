@@ -11,21 +11,6 @@
 - HTML elements tell the browser how to display the content
 - HTML elements label pieces of content such as "this is a heading".
 
-```HTML
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
-</body>
-</html>
-```
-
 **HTML** is a markup language that help you to Structure you webpage
 ![Html](https://www.codeproject.com/KB/HTML/semanticHtml5PageLayout/html5pagelayout.png)
 
@@ -63,3 +48,7 @@ d.setFullYear(2020,  11,  3);
 document.getElementById("demo").innerHTML  = d;
 </script>
 ```
+
+Reference
+[HTML & CSS](https://wtf.tw/ref/duckett.pdf)
+[JavaScript & Jquery](http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/JavaScript-and-JQuery-Interactive-Front-End-Web-Development-Introduction.pdf)
