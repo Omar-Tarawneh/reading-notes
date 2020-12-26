@@ -1,16 +1,25 @@
-# Home Page
+# Code 201 Reading Notes
 
-## Table of the assignment and read
+## Table of the Assignment and Read
 
-Hi, I'm Omar Tarawneh and this is my **ToC** for the reads and assignment for _**Code 102**_
-I'will be updating my **Toc** after each class.
+Hi, I'm Omar Tarawneh and this is my **ToC** for the reads and assignment for _**Code 201**_
+I'will be updating my **Toc** after each day for the next 15 days.
 
-| Class  | Read & Assignment |                                                         Links |
-| :----- | :---------------: | ------------------------------------------------------------: |
-| class1 |      README       |        [link](https://omar-tarawneh.github.io/reading-notes/) |
-| class2 |      read02       |  [link](https://omar-tarawneh.github.io/reading-notes/read02) |
-| class3 |      read03       |  [link](https://omar-tarawneh.github.io/reading-notes/read03) |
-| class4 |      read04       |  [link](https://omar-tarawneh.github.io/reading-notes/read04) |
-| class5 |      read05       |  [link](https://omar-tarawneh.github.io/reading-notes/read05) |
-| class6 |      read06a      | [link](https://omar-tarawneh.github.io/reading-notes/read06a) |
-| class6 |      read06b      | [link](https://omar-tarawneh.github.io/reading-notes/read06b) |
+| Class  | Read & Assignment |                                                          Links |
+| :----- | :---------------: | -------------------------------------------------------------: |
+| Day 0  |     class-01      | [link](https://omar-tarawneh.github.io/reading-notes/class-01) |
+| Day 1  |      README       |         [link](https://omar-tarawneh.github.io/reading-notes/) |
+| Day 2  |     class-02      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
+| Day 3  |     class-03      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
+| Day 4  |     class-04      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
+| Day 5  |     class-05      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
+| Day 6  |     class-06      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
+| Day 7  |     class-07      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
+| Day 8  |     class-08      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
+| Day 9  |     class-09      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
+| Day 10 |     class-10      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
+| Day 11 |     class-11      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
+| Day 12 |     class-12      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
+| Day 13 |     class-13      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
+| Day 14 |     class-14      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
+| Day 15 |     class-15      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
