@@ -28,3 +28,5 @@ The most important thing is to understand variable scope, and also use the devel
 ## Analysis During Development 
 
 Another important thing is during system development to verify the code is working correctly even if a crash doesn't occur, or to narrow down the situations where a crash occurs. The Microsoft Access/VB6 debugger lets you step through each line of code as it runs, examine the environment (including all variables), and even change variable values and lines of code! By seeing how your code runs (which procedures get called, which IF statement branch is taken, how loops work, etc.) you gain a much better understanding of how your code work and whether it's behaving as designed.
+
+[My GitHub Page](https://omar-tarawneh.github.io/reading-notes/class-10)
