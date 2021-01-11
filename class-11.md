@@ -54,4 +54,4 @@ Your domain name is your web address (e.g. google.com or bbc. co.uk). There are 
 So that other people can see your site, you will need to upload it to a web server. Web servers are special computers that are constantly connected to the Internet. They are specially set up to serve web pages when they are requested.
 
 
-[My GitHub Page](https://omar-tarawneh.github.io/reading-notes/class-11)
+[My GitHub Page](https://omar-tarawneh.github.io/reading-notes/class-11git)
