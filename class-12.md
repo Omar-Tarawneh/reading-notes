@@ -34,4 +34,4 @@ ctx.fillStyle = 'rgb(255, 165, 0)';
 ctx.fillStyle = 'rgba(255, 165, 0, 1)';
 ```
 
-[My GitHub Page](https://omar-tarawneh.github.io/reading-notes/class12)
+[My GitHub Page](https://omar-tarawneh.github.io/reading-notes/class-12)

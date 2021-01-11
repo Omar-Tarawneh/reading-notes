@@ -24,7 +24,7 @@ I'will be updating my **Toc** after each day for the next 15 days.
 | Day 9  |     class-09      | [link](https://omar-tarawneh.github.io/reading-notes/class-09) |
 | Day 10 |     class-10      | [link](https://omar-tarawneh.github.io/reading-notes/class-10) |
 | Day 11 |     class-11      | [link](https://omar-tarawneh.github.io/reading-notes/class-11) |
-| Day 12 |     class-12      |  [link](https://omar-tarawneh.github.io/reading-notes/class12) |
+| Day 12 |     class-12      | [link](https://omar-tarawneh.github.io/reading-notes/class-12) |
 | Day 13 |     class-13      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
 | Day 14 |     class-14      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
 | Day 15 |     class-15      |         [link](https://omar-tarawneh.github.io/reading-notes/) |
