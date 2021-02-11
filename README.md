@@ -8,11 +8,11 @@ _link for the code 102_ [Click Here](reading-notes-code102/README.md)
 
 ## Code 201 - Foundations of Software Development
 
-_link for the code 201_ [Click Here](#)
+_link for the code 201_ [Click Here](reading-notes-code201/README.md)
 
 ## Code 301 - Intermediate Software Development
 
-_link for the code 301_ [Click Here](#)
+_link for the code 301_ [Click Here](reading-notes-code301/README.md)
 
 ## Code 401 - Advanced Software Development
 
