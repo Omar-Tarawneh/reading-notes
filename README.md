@@ -50,6 +50,7 @@ _link for the code 301_ [Click Here](reading-notes-code301/README.md)
 | Class  | Read & Assignment |                                                          Links |
 | :----- | :---------------: | -------------------------------------------------------------: |
 | Day 0  |     Read-01     | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code301/read-01) |
+| Day 1  |     Read-02     | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code301/read-02) |
 
 ## Code 401 - Advanced Software Development
 
