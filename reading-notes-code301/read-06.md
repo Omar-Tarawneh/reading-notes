@@ -18,4 +18,4 @@ This means that Node.js is a program we can use to execute JavaScript on our com
 Node.js is primarily used for non-blocking, event-driven servers, due to its single-threaded nature. It's used for traditional web sites and back-end API services, but was designed with real-time, push-based architectures in mind.
 
 
-[GitHub-Page-link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code301/read-06)
+[GitHub-Page](https://omar-tarawneh.github.io/reading-notes/reading-notes-code301/read-06)

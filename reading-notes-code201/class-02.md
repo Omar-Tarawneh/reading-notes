@@ -6,7 +6,7 @@
 
 When creating a **web page**, you add tags
 (known as markup) to the contents of the
-page. These tags provide extra meaning
+page. These tagss provide extra meaning
 and allow browsers to show users the
 appropriate structure for the page.
 
