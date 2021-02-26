@@ -16,4 +16,4 @@ Functional programming is a programming paradigm — a style of building the str
 - Any function that relies on a random number generator cannot be pure.
 - It does not cause any observable side effects (like modifying global array 
 
-[GitHublink](https://omar-tarawneh.github.io/reading-notes/reading-notes-code301/read-09
+[GitHublink](https://omar-tarawneh.github.io/reading-notes/reading-notes-code301/read-09)
