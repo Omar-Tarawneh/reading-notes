@@ -64,6 +64,8 @@ _link for the code 301_ [Click Here](reading-notes-code301/README.md)
 | Day 10  |     Read-11     | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code301/read-11) |
 | Day 11  |     Read-12     | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code301/read-12) |
 | Day 12  |     Read-13     | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes2code301/read-13) |
+| Day 13  |     Read-14a     | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes2code301/read-14a) |
+| Day 13  |     Read-14b     | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes2code301/read-14b) |
 
 ## Code 401 - Advanced Software Development
 
