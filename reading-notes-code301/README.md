@@ -28,3 +28,4 @@ I'will be updating my **Toc** after each day for the next 15 days.
 | Day 11  |     Read-13     | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code301/read-13) |
 | Day 13  |     Read-14a     | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes2code301/read-14a) |
 | Day 13  |     Read-14b     | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes2code301/read-14b) |
+| Day 14  |     Read-15     | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes2code301/read-15) |
