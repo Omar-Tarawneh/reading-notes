@@ -60,3 +60,19 @@ It can be described by the following points:
 - write “just enough” code, the simplest possible, to make the test pass
 - “refactor” the code until it conforms to the simplicity criteria
 - repeat, “accumulating” unit tests over time
+
+## CI/CD
+
+Continious Integration / Continious Doployment
+is a coding philosophy and set of practices that drive development teams to implement small changes and check in code to version control repositories frequently.
+It's the best practice because it addresses the misalignment between developers who want to push changes frequently, with operations that want stable applications.
+
+- Web Server: A web server is a computer that runs websites. It's a computer program that distributes web pages as they are requisitioned. The basic objective of the web server is to store, process and deliver web pages to the users. This intercommunication is done using Hypertext Transfer Protocol (HTTP).
+
+- Express: it's a node js framework, used for deveoloping backend web app and APIs
+
+- Routes: is a mechanism where HTTP requests are routed to the code that handles them. To put simply, in the Router you determine what should happen when a user visits a certain page.
+
+- WRRC: The request/response cycle traces how a user's request flows through the app.
+
+[GitHub](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-02)
