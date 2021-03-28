@@ -72,3 +72,4 @@ _link for the code 401_ [Click Here](reading-notes-code401/README.md)
 | Day   | Reading Class |                                                                               Links |
 | :---- | :-----------: | ----------------------------------------------------------------------------------: |
 | Day 0 |    Read-01    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-01) |
+| Day 1 |    Read-02    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-02) |
