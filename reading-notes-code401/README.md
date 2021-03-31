@@ -16,3 +16,4 @@ I'will be updating my **Toc** after each day for the next 57 days.
 | Day 1 |      Read-02      | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-02) |
 | Day 2 |      Read-03      | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-03) |
 | Day 3 |      Read-04      | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-04) |
+| Day 4 |      Read-05      | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-05) |
