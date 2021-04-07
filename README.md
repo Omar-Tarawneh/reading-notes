@@ -69,13 +69,16 @@ _link for the code 301_ [Click Here](reading-notes-code301/README.md)
 
 _link for the code 401_ [Click Here](reading-notes-code401/README.md)
 
-| Day   | Reading Class |                                                                               Links |
-| :---- | :-----------: | ----------------------------------------------------------------------------------: |
-| Day 0 |    Read-01    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-01) |
-| Day 1 |    Read-02    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-02) |
-| Day 2 |    Read-03    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-03) |
-| Day 3 |    Read-04    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-04) |
-| Day 4 |    Read-05    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-05) |
-| Day 5 |    Read-06    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-06) |
-| Day 6 |    Read-07    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-07) |
-| Day 7 |    Read-08    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-08) |
+| Day    | Reading Class |                                                                               Links |
+| :----- | :-----------: | ----------------------------------------------------------------------------------: |
+| Day 0  |    Read-01    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-01) |
+| Day 1  |    Read-02    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-02) |
+| Day 2  |    Read-03    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-03) |
+| Day 3  |    Read-04    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-04) |
+| Day 4  |    Read-05    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-05) |
+| Day 5  |    Read-06    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-06) |
+| Day 6  |    Read-07    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-07) |
+| Day 7  |    Read-08    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-08) |
+| Day 8  |    Read-09    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-09) |
+| Day 9  |    Read-10    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-10) |
+| Day 11 |    Read-11    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-11) |
