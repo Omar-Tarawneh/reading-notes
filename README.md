@@ -85,3 +85,5 @@ _link for the code 401_ [Click Here](reading-notes-code401/README.md)
 | Day 11 |    Read-12    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-12) |
 | Day 13 |    Read-13    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-13) |
 | Day 13 |    Read-14    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-14) |
+| Day 14 |    Read-16    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-16) |
+| Day 15 |    Read-17    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-17) |
