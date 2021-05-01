@@ -28,3 +28,6 @@ I'will be updating my **Toc** after each day for the next 57 days.
 | Day 13 |      Read-14      | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-14) |
 | Day 14 |      Read-16      | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-16) |
 | Day 15 |      Read-17      | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-17) |
+| Day 16 |      Read-18      | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-18) |
+| Day 17 |      Read-19      | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-19) |
+| Day 18 |      Read-26      | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-26) |
