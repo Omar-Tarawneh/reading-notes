@@ -100,3 +100,6 @@ _link for the code 401_ [Click Here](reading-notes-code401/README.md)
 | Day 26 |    Read-34    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-34) |
 | Day 27 |    Read-35    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-35) |
 | Day 28 |    Read-36    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-36) |
+| Day 29 |    Read-37    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-37) |
+| Day 30 |    Read-38    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-38) |
+| Day 31 |    Read-39    | [link](https://omar-tarawneh.github.io/reading-notes/reading-notes-code401/read-39) |
